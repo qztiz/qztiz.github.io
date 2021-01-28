@@ -18,3 +18,7 @@ Most of contents will be presented in two forms -  a PDF file or a HTML webpage 
 * Resnick, Robert. ___Introduction to Special Relativity___. New York, NY: Wiley, 1968. 
 * French, A. P. ___Special Relativity___. Massachusetts Institute of Technology Education Research Center: MIT Introductory Physics Series. New York, NY: Norton, 1968.
 * Young, Hugh D., Roger A. Freedman. ___University Physics: With Modern Physics___. San Francisco: Pearson Addison Wesley, 2016.
+
+## Notes 
+
+[Expriments to relativity](https://qztiz.github.io/notes/Perplexities%20in%20the%20propagation%20of%20light.html)
