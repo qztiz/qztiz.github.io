@@ -8,7 +8,6 @@ I am still a student, so that it is possible for me to make mistakes. Feel free 
 
 Most of contents will be presented in two forms -  a PDF file or a HTML webpage for online review. 
 
-[toc]
 
 
 
