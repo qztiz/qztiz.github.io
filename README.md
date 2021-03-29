@@ -22,4 +22,4 @@ Most of contents will be presented in two forms -  a PDF file or a HTML webpage 
 
 [Expriments to relativity](https://qztiz.github.io/notes/Perplexities%20in%20the%20propagation%20of%20light.html)
 
-[Relativistic Doppler effect](https://qztiz.github.io/notes/Perplexities%20in%20the%20propagation%20of%20light.html)
+[Relativistic Doppler effect](https://qztiz.github.io/notes/Doppler%20effect.html)
