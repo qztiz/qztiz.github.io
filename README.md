@@ -24,9 +24,9 @@ Most of contents will be presented in two forms -  a PDF file or a HTML webpage 
 
 [Relativistic Doppler effect](https://qztiz.github.io/notes/Doppler%20effect.html)
 
-[To get $E=mc^2$](https://qztiz.github.io/notes/To get E=mc^2.html)
+[To get $E=mc^2$](https://qztiz.github.io/notes/To%20get%20E=mc%5E2.html)
 
-[Examples](https://qztiz.github.io/notes/Some examples.html)
+[Examples](https://qztiz.github.io/notes/Some%20examples.html)
 
 [Energy momentum and mass in relativity](https://qztiz.github.io/notes/Energy,%20momentum,%20and%20mass.html)
 
