@@ -20,13 +20,13 @@ Most of contents will be presented in two forms -  a PDF file or a HTML webpage 
 
 ## Notes 
 
-[Expriments to relativity](https://qztiz.github.io/notes/Perplexities%20in%20the%20propagation%20of%20light.html)
+[Expriments to relativity](https://qztiz.github.io/notes/Perplexities%20in%20the%20propagation%20of%20light.html)         [pdf](https://qztiz.github.io/notes/Perplexities%20in%20the%20propagation%20of%20light.pdf)
 
-[Relativistic Doppler effect](https://qztiz.github.io/notes/Doppler%20effect.html)
+[Relativistic Doppler effect](https://qztiz.github.io/notes/Doppler%20effect.html)          [pdf](https://qztiz.github.io/notes/Doppler%20effect.pdf)
 
-[To get $E=mc^2$](https://qztiz.github.io/notes/To%20get%20E=mc%5E2.html)
+[To get $E=mc^2$](https://qztiz.github.io/notes/To%20get%20E=mc%5E2.html)         [pdf](https://qztiz.github.io/notes/To%20get%20E=mc%5E2.pdf)
 
-[Examples](https://qztiz.github.io/notes/Some%20examples.html)
+[Examples](https://qztiz.github.io/notes/Some%20examples.html)   [pdf]()
 
 [Energy momentum and mass in relativity](https://qztiz.github.io/notes/Energy,%20momentum,%20and%20mass.html)
 
